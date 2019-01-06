@@ -1,0 +1,312 @@
+* {
+   	padding: 0;
+    margin: 0;
+   }
+ul,li,ol{
+	list-style: none;
+	}
+a{
+	text-decoration: none;
+	}
+.left{
+	float: left;
+}
+.box{
+	width:100%;
+	background-color:#ffffff;
+}
+.one{
+	width:1180px;
+	height:128px;
+	margin:0 auto;
+}
+.help{
+	margin-top:10px;
+	font-size:12px;
+	color:#a897ac;
+	float:left;
+}
+.com{
+	margin-left:18px;
+	float:left;
+	font-size:12px;
+	margin-top:7px;
+	color:#a897ac;
+}
+.de{
+	margin-left:380px;
+	margin-top:5px;
+	float:left;
+}
+.comm{
+	margin-left:18px;
+	margin-top:5px;
+	float:left;
+}
+.qq{
+	width:19px;
+	height:19px;
+	background:url(../img/common_min.png) 0 -31px;
+}
+.wechat{
+	width:19px;
+	height:19px;
+	background:url(../img/common_min.png) 0 -53px;
+}
+.weibo{
+	width:19px;
+	height:19px;
+	background:url(../img/common_min.png) 0 -75px;
+}
+.xiaoxi{
+	width:15px;
+	height:10px;
+	background:url(../img/common_min.png) -4px -117px;
+}
+.message{
+	float:left;
+	font-size:12px;
+	margin-top:7px;
+	color:#a897ac;
+}
+.dingdan{
+	width:13px;
+	height:14px;
+	background:url(../img/dingdan.jpg);
+}
+.ding{
+	float:left;
+	font-size:12px;
+	margin-top:7px;
+	color:#a897ac;
+}
+.shoucang{
+	margin-left:18px;
+	float:left;
+	font-size:12px;
+	margin-top:7px;
+	color:#a897ac;
+}
+.zero{
+	float:left;
+	font-size:14px;
+	margin-top:5px;
+	margin-left:7px;
+	color:#fe6c00;
+	font-weight: bold;
+}
+.long{
+	width:500px;
+	height:37px;
+	margin-top:15px;
+	margin-left:105px;
+	border:3px solid #fe6c00;
+	float:left;
+	border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;  
+}
+.two{
+	height:61px;
+	width:1180px;
+	float:left;
+	margin-top:15px;
+}
+.llong{
+	background:#fe6c00;
+	width:85px;
+	height:43px;
+	float:left;
+	margin-top:15px;
+	float: left;
+	border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;  
+}
+.sre{
+	padding-top:10px;
+	padding-left:19px;
+	color:#ffffff;  
+}
+.oo{
+	border:1px solid #e6e5e2;
+	width:83px;
+	height:37px;
+	float:left;
+	margin-top:14px;
+	margin-left:90px;
+	float:left;
+	font-size:12px;
+	border-radius: 3px;
+}
+.ooo{
+	width:15px;
+	height:13px;
+	margin-top:8px;
+	margin-left:30px;
+	background:url(../img/common_min.png) -4px -98px;
+}
+.oot{
+	color:#a897ac;
+	text-align:center;
+}
+.tt{
+	border:1px solid #e6e5e2;
+	width:83px;
+	height:37px;
+	float:left;
+	margin-top:14px;
+	float:left;
+	font-size:12px;
+	border-radius: 3px;
+}
+.tto{
+	width:15px;
+	height:10px;
+	margin-top:8px;
+	margin-left:30px;
+	background:url(../img/common_min.png) -4px -117px;
+}
+.hh{
+	border:1px solid #e6e5e2;
+	width:80px;
+	height:37px;
+	float:left;
+	margin-top:14px;
+	font-size:12px;
+	border-radius: 3px;
+	background:#fe6c00;
+}
+.hht{
+	float:left;
+	margin-top:15px;
+	margin-left:2px;
+}
+.hhh{
+	float:left;
+	font-size:14px;
+	margin-top:10px;
+	color:#ffffff;
+}
+.three{
+	margin-left:250px;
+	width:560px;
+	height:11px;
+	margin-top:20px;
+}
+.line{
+	float:left;
+	margin-left:9px;
+	font-size:11px;
+	color:#ebe7e7;
+}
+.hair{
+	float:left;
+	color:#ff0000;
+	font-size:11px;
+}
+.pan{
+	float:left;
+	color:#ff0000;
+	font-size:11px;
+	margin-left:9px;
+}
+.shenti{
+	float:left;
+	font-size:11px;
+	margin-left:9px;
+	color:#666560;
+}
+.pc{
+	margin-left:13px;
+	margin-top:16px;
+	font-size:12px;
+}
+.app{
+	float:left;
+	font-size:11px;
+	margin-left:9px;
+	color:#abbee6;
+}
+.bea{
+	color:#ffffff;
+	margin-top:9px;
+	float:left;
+	font-size:14px;
+	margin-left:65px;
+}
+.hot{
+	color:#ffffff;
+	margin-top:9px;
+	float:left;
+	font-size:14px;
+	margin-left:36px;
+}
+.st{
+	width:95px;
+	height:35px;
+	color:#ffffff;
+	float:left;
+	font-size:14px;
+	background-color:#fe0d4a;
+	text-align:center;
+	padding-top:5px;
+	margin-left:175px;
+}
+.sk{
+	font-size:12.5px;
+	color:#676660;
+	margin-top:10px;
+}
+.ask{
+	font-size:12.5px;
+	color:#676660;
+	margin-top:7px;
+}
+.la{
+	float:left;
+	margin-left:27px;
+}
+.why{
+	margin-top:9px;
+	font-size:13px;
+}
+.oli{
+	font-size:13px;
+	color:#9a9791;
+	margin-left:11px;
+	float:left;
+}
+.five{
+	font-size:13px;
+	color:#9a9791;
+	float:left;
+	margin-left:11px;
+}
+.ffi{
+	font-size:13px;
+	color:#9a9791;
+	float:left;
+}
+.j1{
+	width:410px;
+	height:410px;
+	position:relative;
+	margin-top:20px;
+	display:block;
+}
+.j2{
+	width:410px;
+	height:410px;
+	position:relative;
+	margin-top:20px;
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
